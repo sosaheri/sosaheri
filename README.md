@@ -11,10 +11,10 @@
 |  |  |
 | ----------- | ----------- |
 | [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG "Web Magazine focused on specialized articles: Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://psicologiaymundo.com) | [![Caparba](https://larepaweb.com.ve/github/caparbas.PNG "Web portal for online tax payment, Laravel, bootstrap, mercadopago demo data: admin@caparba.com / secret ")](https://caparba.larepaweb.com.ve)|
-| [![Casa Garcia](https://larepaweb.com.ve/github/casagarcia.PNG "Laravel, Bootstrap PHP, CSS, JS")](https://casagarcia.com) |  [![Consiglieri](https://larepaweb.com.ve/github/consiglieri.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://consiglieri.com)    |
+| [![Casa Garcia](https://larepaweb.com.ve/github/casagarcia.PNG "Laravel, Bootstrap PHP, CSS, JS")](https://casagarciamx.com/) |  [![Consiglieri](https://larepaweb.com.ve/github/consiglieri.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://consiglieri.cl/)    |
 | [![Elena de las casas](https://larepaweb.com.ve/github/elenadelascasas.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://elenadelascasas.com)  | [![Gestion Loma](https://larepaweb.com.ve/github/gestioloma.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://gestionloma.com) |
-| [![GK](https://larepaweb.com.ve/github/gk.PNG "Web Magazine focused on specialized articles: Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://gk.com)  | [![Grupo Varas](https://larepaweb.com.ve/github/grupovaras.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://grupovaras.com) |
-| [![Prestanet](https://larepaweb.com.ve/github/prestanet.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://prestanet.com)  |      |
+| [![GK](https://larepaweb.com.ve/github/gk.PNG "Web Magazine focused on specialized articles: Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://gk.city/)  | [![Grupo Varas](https://larepaweb.com.ve/github/grupovaras.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://grupovaras.com) |
+| [![Prestanet](https://larepaweb.com.ve/github/prestanet.PNG "Theme create for wordpress CMS PHP, CSS, JS, underscore_")](https://prestanet.com.co/)  |      |
 |   |      |
 
 <!--
