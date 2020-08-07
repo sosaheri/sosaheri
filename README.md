@@ -8,7 +8,7 @@
 <i>Get my CV <a href="/sosaheri/assets/docs/HeribertoSosa-CV-20-Esp.pdf"> :colombia: :page_facing_up:</a></i>
 
 ### Porfolio
-| | |
+| My | Projects | |
 | ----------- | ----------- |-------------|
 | |  |  |
 | Paragraph   | Text        | otro |
