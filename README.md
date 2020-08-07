@@ -5,10 +5,10 @@
 <a href="https://www.linkedin.com/in/sosaheri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://larepaweb.com.ve" target="_blank"><img src="https://img.shields.io/badge/ArepaWebGroup-Web-brightgreen" alt="larepaweb.com.ve"></a>
 
-<i>Get my CV <a href="/sosaheri/assets/docs/HeribertoSosa-CV-20-Esp.pdf"> :colombia: :page_facing_up:</a></i>
+<i>Get my CV <a href="/sosaheri/sosaheri/blob/master/assets/docs/HeribertoSosa-CV-20-Esp.pdf"> :colombia: :page_facing_up:</a></i>
 
 ### Porfolio
-| My | Projects | |
+|  |  | |
 | ----------- | ----------- |-------------|
 | |  |  |
 | Paragraph   | Text        | otro |
