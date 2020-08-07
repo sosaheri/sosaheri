@@ -8,7 +8,7 @@
 <i>Get my CV <a href="https://docs.google.com/document/d/1TZzKj-9iTZZsk6zAIAd4--hB49pZgUMhybJoUGwlXQA/edit?usp=sharing"> ES :page_facing_up:</a> EN :page_facing_up: </i>
 
 ### Portfolio
-| ![GitHub Logo](/assets/img/psicologiaymundo.PNG) Format: ![Alt Text](url) | 
+| ![GitHub Logo](https://larepaweb.com.ve/wp-content/uploads/2019/05/arepaweb.png) Format: ![Alt Text](https://larepaweb.com.ve) | 
 ![GitHub Logo](/assets/img/psicologiaymundo.PNG) Format: ![Alt Text](url) | 
 ![GitHub Logo](/assets/img/psicologiaymundo.PNG)Format: ![Alt Text](url)|
 | ----------- | ----------- |-------------|
