@@ -5,7 +5,14 @@
 <a href="https://www.linkedin.com/in/sosaheri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://larepaweb.com.ve" target="_blank"><img src="https://img.shields.io/badge/ArepaWebGroup-Web-brightgreen" alt="larepaweb.com.ve"></a>
 
-</div>
+<i>Get my CV <a href="#">icon</a></i>
+
+###Porfolio
+
+| Syntax      | Description |project      |
+| ----------- | ----------- |-------------|
+| img         | img         |             |
+| Paragraph   | Text        |             |
 
 <!--
 **sosaheri/sosaheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
