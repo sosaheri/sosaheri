@@ -5,12 +5,12 @@
 <a href="https://www.linkedin.com/in/sosaheri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://larepaweb.com.ve" target="_blank"><img src="https://img.shields.io/badge/ArepaWebGroup-Web-brightgreen" alt="larepaweb.com.ve"></a>
 
-<i>Get my CV <a href="assets/docs/HeribertoSosa-CV-20-Esp.pdf"> :colombia: :page_facing_up:</a></i>
+<i>Get my CV <a href="sosaheri/assets/docs/HeribertoSosa-CV-20-Esp.pdf"> :colombia: :page_facing_up:</a></i>
 
 ### Porfolio
 | | |
 | ----------- | ----------- |-------------|
-| [![Psicologia y Mundo!](assets/img/psicologiaymundo.PNG)](https://www.psicologiaymundo.com])<br>Digital Magazine about multiple topics from the side of psicologyes |  |  |
+| [![Psicologia y Mundo!](sosaheri/assets/img/psicologiaymundo.PNG)](https://www.psicologiaymundo.com])<br>Digital Magazine about multiple topics from the side of psicologyes |  |  |
 | Paragraph   | Text        | otro |
 
 <!--
