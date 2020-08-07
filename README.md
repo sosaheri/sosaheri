@@ -8,10 +8,9 @@
 <i>Get my CV <a href="https://docs.google.com/document/d/1TZzKj-9iTZZsk6zAIAd4--hB49pZgUMhybJoUGwlXQA/edit?usp=sharing"> ES :page_facing_up:</a> EN :page_facing_up: </i>
 
 ### Portfolio
-| My | Projects |
+|  |  |
 | ----------- | ----------- |
-| [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG)](https://psicologiaymundo.com) |
- [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG)](https://psicologiaymundo.com)|
+| [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG)](https://psicologiaymundo.com) | [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG)](https://psicologiaymundo.com)|
 | Paragraph   | Text        |
 
 <!--
