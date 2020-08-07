@@ -10,7 +10,12 @@
 ### Portfolio
 |  |  |
 | ----------- | ----------- |
-| [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG)](https://psicologiaymundo.com) | [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG)](https://psicologiaymundo.com)|
+| [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG "Web Magazine focus in 
+web magazine focused on specialized articles:
+
+Theme create for wordpress CMS
+
+PHP, CSS, JS, underscore_")](https://psicologiaymundo.com) | [![Psicologia y mundo](https://larepaweb.com.ve/github/psicologiaymundo.PNG)](https://psicologiaymundo.com)|
 |   |      |
 
 <!--
