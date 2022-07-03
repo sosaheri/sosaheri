@@ -14,6 +14,8 @@ the magic is:
 ```
 sudo apt update 
 sudo apt install code
+```
+
 
 <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
@@ -22,4 +24,3 @@ sudo apt install code
         crossorigin="anonymous"
         async>
 </script>
-```
