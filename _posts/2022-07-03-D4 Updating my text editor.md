@@ -18,7 +18,7 @@ sudo apt install code
 
 
 <script src="https://utteranc.es/client.js"
-        repo="https://github.com/sosaheri/sosaheri/"
+        repo="sosaheri/sosaheri/"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
