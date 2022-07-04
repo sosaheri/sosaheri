@@ -2,7 +2,7 @@
 layout: post
 title: "D4 Updating my text editor"
 date: 2022-07-03 14:30:00 +0400
-categories: daily-hacks, vscode, programming-tools
+categories: daily-hacks
 ---
 
 ### Updating vscode
