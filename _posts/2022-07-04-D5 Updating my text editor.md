@@ -4,7 +4,6 @@ title: "D5 template in jekyll"
 date: 2022-07-04 14:30:00 +0400
 categories: jekyll
 ---
-  {% include analytics.html %}
 
 ### Creating templates for jekkyll blog
 

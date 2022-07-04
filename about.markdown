@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-  {% include analytics.html %}
 
 
 This is a brief history about me.
