@@ -1,0 +1,15 @@
+{% if page.title%}
+	<h1>{{page.title}}</h1>
+{% else %}
+	<h1>Untitled post</h1>
+{% endif %}
+{{ page.date | date: "%b %d, %Y" }}
+{{ content }}
+
+<script src="https://utteranc.es/client.js"
+        repo="sosaheri/sosaheri"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
