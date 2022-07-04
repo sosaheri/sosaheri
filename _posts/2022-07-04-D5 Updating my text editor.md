@@ -14,3 +14,10 @@ Jekyll use liquid HTML doc [here]( https://shopify.github.io/liquid/)
 
 
 
+<script src="https://utteranc.es/client.js"
+        repo="sosaheri/sosaheri"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+        </script>
