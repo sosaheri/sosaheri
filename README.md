@@ -19,12 +19,14 @@
 - 📄 Know about my experiences <a href="https://github.com/sosaheri/sosaheri/blob/master/docs/CV-HeribertoSosa-22-Esp.pdf" target="blank">Resume</a>
 <br/>
 
-<h3 align="center">Contact</h3>
+<h3>Contact me</h3>
 
-<p align="center">
 
-- [WhatsApp](https://wa.me/584241373853?text=Hola%20escribo%20desde%20github)
-- [Linkedin](https://www.linkedin.com/in/heribertososa/)
+<a href="https://www.linkedin.com/in/heribertososa/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
 
-</p>
+<a href="https://wa.me/584241373853?text=Hola%20escribo%20desde%20github">
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
+</a>
 
