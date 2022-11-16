@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sosaheriberto2001@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/sosaheri/docs/blob/master/CV-HeribertoSosa-22-Esp.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/sosaheri/sosaheri/blob/master/docs/CV-HeribertoSosa-22-Esp.pdf" target="blank">Resume</a>
 <br/>
 
 <h3 align="center">Contact</h3>
