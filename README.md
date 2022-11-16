@@ -23,8 +23,8 @@
 
 <p align="center">
 
- - WhatsApp
- - LinkedIn
+- [WhatsApp](https://wa.me/584241373853?text=Hola%20escribo%20desde%20github)
+- [Linkedin](https://www.linkedin.com/in/heribertososa/)
 
 </p>
 
