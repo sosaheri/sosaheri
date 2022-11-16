@@ -19,4 +19,12 @@
 - 📄 Know about my experiences <a href="https://github.com/sosaheri/docs/blob/master/CV-HeribertoSosa-22-Esp.pdf" target="blank">Resume</a>
 <br/>
 
+<h3 align="center">Contact</h3>
+
+<p align="center">
+
+ - WhatsApp
+ - LinkedIn
+
+</p>
 
