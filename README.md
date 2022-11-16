@@ -21,12 +21,12 @@
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+      <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/heribertososa/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
    
-		<a style="margin-left: 5px;" target="_blank" href="https://wa.me/584241373853?text=Hola%20escribo%20desde%20github">
-					<img src="https://img.icons8.com/icon/30448/whatsapp"></a>
+	<a style="margin-left: 5px;" target="_blank" href="https://wa.me/584241373853?text=Hola%20escribo%20desde%20github">
+			<img src="https://img.icons8.com/whatsapp"></a> 
       </div>
 
 </p>
