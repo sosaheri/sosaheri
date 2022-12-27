@@ -6,9 +6,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working at <a href="https://Drapshop.com" target="blank">Drapshop.com</a> like Developer Lead 
+- 🔭 I’m open to work like Backend Developer (Laravel, Node)
 
-- 🌱 I’m Learning Flutter for mobile apps (Android / IOS)
+- 🌱 I’m Learning QA Automation
 
 - 🤝 I’m available for freelancing.
 
